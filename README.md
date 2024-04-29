@@ -24,6 +24,7 @@ To run the Amazon clone locally on your machine, follow these steps:
 ## Screenshots
 
 ![PHOTO-2024-04-14-11-23-43](https://github.com/samarthshukla6/amazon_clone/assets/141849001/ed8e9451-f60a-430b-bec5-ff67f434cf24)
+https://github.com/samarthshukla6/amazon_clone/assets/141849001/e4dba9cb-848f-4788-907c-c6892b2eea1d
 
 
 ## Contributing
